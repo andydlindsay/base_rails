@@ -16,6 +16,7 @@ gem 'jquery-rails',            '4.0.3'
 gem 'turbolinks',              '2.3.0'
 gem 'jbuilder',                '2.2.3'
 gem 'rake',                    '10.4.2'
+gem 'font-awesome-sass',       '4.5.0'
 gem 'sdoc',                    '0.4.0', group: :doc
 
 group :development, :test do
